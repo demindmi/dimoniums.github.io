@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "bondar-fm": "apps/bondar-fm",
+    "bondar-fm-e2e": "apps/bondar-fm-e2e"
+  }
+}
